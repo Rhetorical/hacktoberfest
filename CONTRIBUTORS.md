@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Bryan Anderson](https://github.com/rhetorical)
+ - Place: Oregon, USA
+ - Bio: Full Stack and Software Developer
+ - GitHub: [Rhetorical](https://github.com/rhetorical)
